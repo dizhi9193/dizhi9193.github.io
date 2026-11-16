@@ -42,7 +42,7 @@ var urls=[
     'bizjpiuvo.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://91porna97.com/;
+var JumpPage="https://91porna97.com/";
 
 var newestUrls = [];
 
