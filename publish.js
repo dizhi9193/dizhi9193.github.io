@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[
 	'rgwgedvt.cc/', 
-	'ldfflmabf.cc/', 
+	'rikvrbqwq.cc', 
     'gunskjtnt.com/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://91porna97.com/;
 
 var newestUrls = [];
 
