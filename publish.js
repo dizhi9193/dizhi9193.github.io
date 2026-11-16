@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'rgwgedvt.cc/', 
 	'rikvrbqwq.cc', 
-    'rikvrbqwq.cc/',
+    'bizjpiuvo.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://91porna97.com/;
