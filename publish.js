@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'dknebiilk.cc',
+	'rdmvjmnxo.cc',
 	'kybvqeplv.cc',
-	'ropkvztl.cc',
-	'mygeypkt.cc',
 ];                                                                                                                  
 
 var JumpPage="https://91porna100.com";
