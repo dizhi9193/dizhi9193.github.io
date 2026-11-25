@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'qijmzxci.cc',
-	'rysvqjuyd.cc',
-	'shznkkqki.cc',
+	'goabqtoph.cc',
+	'famxdxkid.cc',
+	'xroslizr.cc',
 ];                                                                                                                  
 
 var JumpPage="https://rvxqmoocs.cc";
